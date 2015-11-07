@@ -483,6 +483,9 @@ body .modal div.modal-body p {
     color:black;
 }
 
+body .modal div.modal-body p, body .modal div.modal-body h6, body .modal div.modal-body h5 {
+    color:black;
+}
 .modal {
   text-align: center;
 }
@@ -500,4 +503,9 @@ body .modal div.modal-body p {
   display: inline-block;
   text-align: left;
   vertical-align: middle;
+}
+
+.tos p {
+    color: black;
+    font-size: 10px !important;
 }
