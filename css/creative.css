@@ -505,7 +505,12 @@ body .modal div.modal-body p, body .modal div.modal-body h6, body .modal div.mod
   vertical-align: middle;
 }
 
-.tos p {
+.tos p, .privacypolicy p {
+    color: black;
+    font-size: 10px !important;
+}
+
+.privacypolicy ul li {
     color: black;
     font-size: 10px !important;
 }
